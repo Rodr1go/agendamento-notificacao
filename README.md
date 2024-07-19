@@ -18,7 +18,7 @@ Este é um projeto Spring Boot que utiliza Java 17, Spring Boot 3.3.1, Maven, Sc
 
 ## Scheduler
 
-O projeto inclui um agendador (Scheduler) que executa tarefas em intervalos regulares. Você pode personalizar as tarefas agendadas no arquivo `MyScheduler.java`.
+O projeto inclui um agendador (Scheduler) que executa tarefas em intervalos regulares. Você pode personalizar as tarefas agendadas no arquivo `TaskScheduler.java`.
 
 ## Docker Compose
 
